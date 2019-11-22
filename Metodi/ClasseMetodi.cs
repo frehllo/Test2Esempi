@@ -7,7 +7,7 @@ namespace Metodi
         public static bool Esempio1()
         {
             double a = 1.0 / 10.0;
-            double prodotto = a * 10;
+            double prodotto = a * 10 ;
             if (prodotto == 1.0)
                 return true;
             else
